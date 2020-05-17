@@ -5,10 +5,10 @@ In this assignment you will practice writing backpropagation code, and training 
 - implement **Batch Normalization** and **Layer Normalization** for training deep networks
 - implement **Dropout** to regularize networks
 - understand the architecture of **Convolutional Neural Networks** and get practice with training these models on data
-- gain experience with a major deep learning framework, such as **TensorFlow** or **PyTorch**.
+- gain experience with a major deep learning framework, such as **TensorFlow** or **PyTorch**.\
 \
 \
-
+\
 * ## Q1. k-Nearest Neighbour Classifier
 The IPython Notebook **knn.ipynb** will walk you through implementing the kNN classifier.
 
