@@ -1,7 +1,5 @@
-In this assignment you will practice writing backpropagation code, and training Neural Networks and Convolutional Neural Networks. The goals of this assignment are as follows:
-
+In this assignment you will practice writing backpropagation code, and training Neural Networks and Convolutional Neural Networks. The goals of this assignment are as follows:\
 \
-
 - understand **Neural Networks** and how they are arranged in layered architectures
 
 - understand and be able to implement (vectorized) **backpropagation**
@@ -14,12 +12,10 @@ In this assignment you will practice writing backpropagation code, and training 
 
 - understand the architecture of **Convolutional Neural Networks** and get practice with training these models on data
 
-- gain experience with a major deep learning framework, such as **TensorFlow** or **PyTorch**.
-
+- gain experience with a major deep learning framework, such as **TensorFlow** or **PyTorch**.\
 \
 \
 \
-
 * ## Q1. k-Nearest Neighbour Classifier
 
 The IPython Notebook **knn.ipynb** will walk you through implementing the kNN classifier.
@@ -43,12 +39,10 @@ classifier.
 
 * ## Q5. Higher Level Representation: Image Features
 
-The IPython Notebook **features.ipynb** will walk you through this exercise, in which you will examine the improvements gained by using higher-level representations as opposed to using raw pixel values.
-
+The IPython Notebook **features.ipynb** will walk you through this exercise, in which you will examine the improvements gained by using higher-level representations as opposed to using raw pixel values.\
 \
 \
 \
 \
-
 **NOTE:** Details about this assignment can be found [on the course webpage](https://cs231n.github.io/assignments2019/assignment1/).
 
