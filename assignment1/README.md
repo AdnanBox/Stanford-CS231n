@@ -1,11 +1,13 @@
-In this assignment you will practice writing backpropagation code, and training Neural Networks and Convolutional Neural Networks. The goals of this assignment are as follows:
-- understand **Neural Networks** and how they are arranged in layered architectures
-- understand and be able to implement (vectorized) **backpropagation**
-- implement various **update rules** used to optimize Neural Networks
-- implement **Batch Normalization** and **Layer Normalization** for training deep networks
-- implement **Dropout** to regularize networks
-- understand the architecture of **Convolutional Neural Networks** and get practice with training these models on data
-- gain experience with a major deep learning framework, such as **TensorFlow** or **PyTorch**.
+In this assignment you will practice putting together a simple image classification pipeline, based on the k-Nearest Neighbor or the SVM/Softmax classifier. The goals of this assignment are as follows:
+- understand the basic **Image Classification pipeline** and the data-driven approach (train/predict stages)
+- understand the train/val/test **splits** and the use of validation data for **hyperparameter tuning**.
+- develop proficiency in writing efficient **vectorized code** with numpy
+- implement and apply a k-Nearest Neighbor (**kNN**) classifier
+- implement and apply a Multiclass Support Vector Machine (**SVM**) classifier
+- implement and apply a **Softmax** classifier
+- implement and apply a **Two layer neural network** classifier
+- understand the differences and tradeoffs between these classifiers
+- get a basic understanding of performance improvements from using **higher-level representations** than raw pixels (e.g. color histograms, Histogram of Gradient (HOG) features)
 <br />
 <br />  
 
@@ -23,9 +25,9 @@ The IPython Notebook **two_layer_net.ipynb** will walk you through the implement
 classifier.
 
 ## Q5. Higher Level Representation: Image Features
-The IPython Notebook **features.ipynb** will walk you through this exercise, in which you will examine the improvements gained by using higher-level representations as opposed to using raw pixel values.\
-\
-\
-\
-\
+The IPython Notebook **features.ipynb** will walk you through this exercise, in which you will examine the improvements gained by using higher-level representations as opposed to using raw pixel values.
+<br />
+<br />
+<br />
+<br />
 **NOTE:** Details about this assignment can be found [on the course webpage](https://cs231n.github.io/assignments2019/assignment1/).
