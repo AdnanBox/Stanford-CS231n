@@ -27,4 +27,4 @@ Open up **TensorFlow.ipynb**. There, you will learn how the framework works, cul
 <br /> 
 <br /> 
 <br /> 
-**NOTE:** Details about this assignment can be found [on the course webpage](https://cs231n.github.io/assignments2019/assignment1/).
+**NOTE:** Details about this assignment can be found [on the course webpage](https://cs231n.github.io/assignments2019/assignment2/).
